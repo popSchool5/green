@@ -3716,7 +3716,6 @@
     <!-- Fin main -->
 
 
-
     <!-- Section avec la newsletter -->
     <div id="shopify-section-index-newsletter" class="shopify-section section section_newsletter">
         <div class="index_newsletter_wrapper" style="background-color: #ffffff">
