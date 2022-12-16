@@ -118,7 +118,7 @@
     </script>
 
     <script id="sections-script" data-sections="template-collection,index-image-with-text-overlay,index-divider,index-featured-products-tabs,index-collection-list-custom,index-products-carousel,header-2,sidebar,index-newsletter" defer="defer" src="//cdn.shopify.com/s/files/1/0425/0818/9859/t/3/compiled_assets/scripts.js?1847"></script>
-    
+
 
     <script src="//cdn.shopify.com/s/files/1/0425/0818/9859/t/3/assets/assets.js?v=63150313574281998311625820485"></script>
     <script src="//cdn.shopify.com/s/files/1/0425/0818/9859/t/3/assets/lazysizes.min.js?v=35890577942795198701625820490" defer></script>
@@ -127,6 +127,9 @@
     <script src="//cdn.shopify.com/s/files/1/0425/0818/9859/t/3/assets/header-script.js?v=147772941011213095901625820506" type="text/javascript"></script>
 
     <script id="sections-script" data-sections="index-image-with-text-overlay,index-divider,index-featured-products-tabs,index-collection-list-custom,index-products-carousel,header-2,index-newsletter" defer="defer" src="//cdn.shopify.com/s/files/1/0425/0818/9859/t/3/compiled_assets/scripts.js?1847"></script>
+
+    <link rel="stylesheet" href="./owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="./owl/owl.theme.default.min.css">
 
 </head>
 

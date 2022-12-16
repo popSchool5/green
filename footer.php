@@ -198,10 +198,11 @@
     </div>
 
     <style>
-        .innerUl{
+        .innerUl {
             margin: 0;
             padding: 0;
         }
+
         .custom_title {
             font-size: 16px;
             line-height: 22px;
@@ -326,6 +327,30 @@
             $p_just__bought.removeClass("opened");
         });
     </script>
+    <script src="./owl/owl.carousel.js"></script>
+    <script>
+        $(document).ready(function() {
+            var owl = $('.owl-carousel');
+            owl.owlCarousel({
+                margin: 10,
+                nav: false,
+                loop: false,
+                responsive: {
+                    0: {
+                        items: 2
+                    },
+                    600: {
+                        items: 3
+                    },
+                    1000: {
+                        items: 4
+                    }
+                }
+            })
+        })
+    </script>
+
+
 </div>
 
 </body>
