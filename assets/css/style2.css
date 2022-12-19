@@ -1369,8 +1369,10 @@
         max-width: 100%
     }
 
+    /* todo pour les articles en mode mobile j'ai enlever la mt */
+
     .index_section_blog-articles .col-sm-4+.col-sm-4 {
-        margin-top: 30px
+        /* margin-top: 30px */
     }
 
     .index_section_blog-articles .article_item__overlay .article_caption .article_title {

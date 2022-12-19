@@ -298,7 +298,7 @@
 
 
                                         <li class="level_1__item " style="display: inline-block;">
-                                            <a class="level_1__link " href="#">Contact
+                                            <a class="level_1__link " href="./contact.php">Contact
 
 
                                             </a>

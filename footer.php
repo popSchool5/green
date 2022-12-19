@@ -21,7 +21,7 @@
 
 
                             <li>
-                                <a href="/account/addresses">Adresses</a>
+                                <a href="./contact.php">Adresses</a>
                             </li>
 
                         </ul>
@@ -101,21 +101,20 @@
                             </li>
 
                             <li>
-                                <a href="/policies/privacy-policy">RGPD</a>
+                                <a href="/policies/mentions-legale.php">Mentions Légales</a>
                             </li>
 
                             <li>
-                                <a href="/pages/about-us">A propos de nous</a>
+                                <a href="/pages/a-propos.php">A propos de nous</a>
                             </li>
 
                             <li>
-                                <a href="/pages/contact-us">Contact</a>
+                                <a href="./contact.php">Contact</a>
                             </li>
 
                             <li>
-                                <a href="/policies/terms-of-service">Termes et condition</a>
+                                <a href="./conditions-generales-utilisation.php">Termes et condition</a>
                             </li>
-
                         </ul>
                     </div>
 
