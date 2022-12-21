@@ -2757,7 +2757,7 @@
         </style>
 
         <div class="container">
-            <div class="container owl-carousel owl-theme m-5">
+            <div class="container owl-carousel owl-theme">
 
                 <div class="item ">
                     <div class="swiper-slide">
