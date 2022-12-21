@@ -105,7 +105,7 @@
                             </li>
 
                             <li>
-                                <a href="/pages/a-propos.php">A propos de nous</a>
+                                <a href="./a-propos.php">A propos de nous</a>
                             </li>
 
                             <li>

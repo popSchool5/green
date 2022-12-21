@@ -1,9 +1,5 @@
 <?php require('./header.php');  ?>
-<style>
-    h1{
-        w
-    }
-</style>
+
 <div class="breadcrumbs">
     <div class="container">
         <ul>
